@@ -1,0 +1,11 @@
+# Site settings
+title: Code tips
+email: frozon@gmail.com
+github: "https://github.com/frozon"
+description: "Maybe not so technical blog for sharing some code tips"
+baseurl: ""
+url: "http://frozon.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
